@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MlKitAssignment</string>
+    <string name="select_image_for_detection">Select Image for Detection</string>
+</resources>
